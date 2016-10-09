@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Drink Me Hot</string>
+
+    <!-- content description -->
+    <string name="contentDescription_menu">Menu</string>
+    <string name="contentDescription_way">Way</string>
+    <string name="contentDescription_favorite">Favorite</string>
+    <string name="contentDescription_init">Initialisation</string>
+    <string name="contentDescription_circle">circle</string>
+
+    <!-- other -->
+    <string name="newyork_title">New York</string>
+    <string name="paris_title">Paris</string>
+    <string name="about_me">xxx</string>
+    <string name="about_city">parisdata.opendatasoft.com\nnycopendata.socrata.com</string>
+
+    <!-- to translate -->
+
+    <string name="newyork_text">露天咖啡廳列表</string>
+    <string name="paris_text">歐式咖啡廳列表</string>
+
+    <string-array name="items_title">
+        <item>找出最近的</item>
+        <item>尋找咖啡廳</item>
+        <item>你的最愛</item>
+        <item>轉換地點</item>
+        <item>關於</item>
+    </string-array>
+
+    <string name="previous">先前的</string>
+    <string name="next">下一個</string>
+    <string name="editText_search">搜尋</string>
+    <string name="text_empty_search">你的搜索沒有任何適合的咖啡廳</string>
+    <string name="text_empty_favorite">敲鍵已增加到最愛列</string>
+    <string name="txt_init">同步</string>
+    <string name="txt_init_update">耐心幾乎做到了</string>
+    <string name="network_failed">網絡問題</string>
+    <string name="about_intro">這不是商業化APP 僅適用於開放資料</string>
+    <string name="about_warranty">這個APP不能完全當成參考精準度依據</string>
+    <string name="about_credit">感謝Maxim Morozov 讓我使用這個標誌</string>
+    <string name="about_contact">未來資訊不論任何問題均可以回報</string>
+    <string name="location_failed">不能同步化你的位置</string>
+    <string name="email_intent">第2封郵電</string>
+
+</resources>

@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white12.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white12.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_about.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/ic_action_about.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white18.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white18.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_next_item.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_not_important.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/ic_action_not_important.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_plusone_standard_off_client.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white6.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white6.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white20.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white20.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_expand.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/ic_action_expand.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_settings.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/ic_action_settings.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_text_focus_light.9.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white19.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white19.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_send_now.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/ic_action_send_now.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_map.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/ic_action_map.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_plusone_tall_off_client.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white16.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white16.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_split.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/ic_action_split.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white13.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white13.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_logo_coffee.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/ic_logo_coffee.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white21.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white21.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_previous_item.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/ic_action_previous_item.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_search.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white5.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white5.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white10.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white10.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white2.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white2.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_location_found.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/ic_action_location_found.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_favorite.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/ic_action_favorite.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white8.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white8.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/powered_by_google_light.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/powered_by_google_light.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white23.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white23.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_location_searching.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/ic_action_location_searching.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white15.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white15.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white9.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white9.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_plusone_small_off_client.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_plusone_medium_off_client.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/powered_by_google_dark.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/powered_by_google_dark.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white24.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white24.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_warning.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/ic_action_warning.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_markup_favorite_coffee.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/ic_markup_favorite_coffee.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_markup_coffee.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/ic_markup_coffee.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white3.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white3.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_text_normal_light.9.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white7.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white7.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_collapse.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/ic_action_collapse.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white1.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white1.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_help.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/ic_action_help.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_web_site.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/ic_action_web_site.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white4.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white4.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white14.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white14.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_important.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/ic_action_important.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white11.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white11.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white22.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white22.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_coffee_white17.png",
+        "source": "/Users/damienbrun/Documents/Developpement/Android/DrinkMeHot/app/src/main/res/drawable-xhdpi/logo_coffee_white17.png"
+    }
+]

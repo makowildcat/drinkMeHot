@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false" >
+
+    <item android:drawable="@drawable/logo_coffee_white1" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white2" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white3" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white4" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white5" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white6" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white7" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white8" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white9" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white10" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white11" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white12" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white13" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white14" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white15" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white16" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white17" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white18" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white19" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white20" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white21" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white22" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white23" android:duration="50"/>
+    <item android:drawable="@drawable/logo_coffee_white24" android:duration="50"/>
+
+</animation-list>

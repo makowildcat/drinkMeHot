@@ -1,0 +1,86 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    tools:context="fr.damienbrun.drinkmehot.MainActivity" >
+
+    <android.support.v4.view.ViewPager
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!-- <TextView -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:layout_marginLeft="@dimen/activity_horizontal_margin" -->
+    <!-- android:layout_marginTop="@dimen/activity_vertical_margin" -->
+    <!-- android:fontFamily="sans-serif-light" -->
+    <!-- android:text="@string/chooseCity" -->
+    <!-- android:textColor="#fff" -->
+    <!-- android:textSize="24sp" /> -->
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/circle_pos0"
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:layout_margin="4dp"
+            android:background="@drawable/circle_selected"
+            android:contentDescription="@string/contentDescription_circle"
+            android:onClick="clickCircle" />
+
+        <ImageButton
+            android:id="@+id/circle_pos1"
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:layout_margin="4dp"
+            android:background="@drawable/circle_unselected"
+            android:contentDescription="@string/contentDescription_circle"
+            android:onClick="clickCircle" />
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/imgButtonInit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/round_button"
+        android:contentDescription="@string/contentDescription_init"
+        android:onClick="choiceClick"
+        android:padding="24dp"
+        android:src="@drawable/logo_coffee_white" />
+
+<!--     <View -->
+<!--         android:id="@+id/img" -->
+<!--         android:layout_width="96dp" -->
+<!--         android:layout_height="96dp" -->
+<!--         android:layout_centerHorizontal="true" -->
+<!--         android:layout_marginBottom="32dp" -->
+<!--         android:layout_marginTop="64dp" -->
+<!--         android:contentDescription="@string/logo" /> -->
+
+    <TextView
+        android:id="@+id/txtInit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imgButtonInit"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"
+        android:alpha="0"
+        android:fontFamily="sans-serif-light"
+        android:text="@string/txt_init"
+        android:textColor="#fff"
+        android:textSize="24sp"
+        android:textStyle="italic" />
+
+</RelativeLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Drink Me Hot</string>
+
+    <!-- content description -->
+    <string name="contentDescription_menu">Menu</string>
+    <string name="contentDescription_way">Way</string>
+    <string name="contentDescription_favorite">Favorite</string>
+    <string name="contentDescription_init">Initialisation</string>
+    <string name="contentDescription_circle">circle</string>
+
+    <!-- other -->
+    <string name="newyork_title">New York</string>
+    <string name="paris_title">Paris</string>
+    <string name="about_me">xxx</string>
+    <string name="about_city">parisdata.opendatasoft.com\nnycopendata.socrata.com</string>
+
+    <!-- to translate -->
+
+    <string name="newyork_text">Eine Liste der Straßencafés</string>
+    <string name="paris_text">Eine Liste von einem Euro Cafés</string>
+
+    <string-array name="items_title">
+        <item>Finden Sie die nächste</item>
+        <item>Suchen Sie eine Café</item>
+        <item>Ihre Favoriten</item>
+        <item>Ort ändern</item>
+        <item>über</item>
+    </string-array>
+
+    <string name="previous">früher</string>
+    <string name="next">nächste</string>
+    <string name="editText_search">Suche</string>
+    <string name="text_empty_search">Ihre Suche brachte keinen Kaffee entsprechen.</string>
+    <string name="text_empty_favorite">Klicken Sie auf die Markierung, um Favoriten hinzuzufügen.</string>
+    <string name="txt_init">Synchronisation </string>
+    <string name="txt_init_update">Geduld, fast fertig</string>
+    <string name="network_failed">Netzwerkproblem</string>
+    <string name="about_intro">Dies ist eine nicht-kommerzielle App, die nur Open Data verwendet.</string>
+    <string name="about_warranty">Diese App übernimmt keine Gewähr für die Vollständigkeit, Genauigkeit oder den Inhalt einer öffentlichen Datensatz zur Verfügung gestellt.</string>
+    <string name="about_credit">Dank Maxim Morozov, mich zu seinem Logo zu verwenden.</string>
+    <string name="about_contact">Für weitere Informationen, alle Fehler zu melden oder was auch immer:</string>
+    <string name="location_failed">Ihr Standort konnte nicht abgerufen werden</string>
+    <string name="email_intent">E-Mail senden</string>
+
+</resources>

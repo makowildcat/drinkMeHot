@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Drink Me Hot</string>
+
+    <!-- content description -->
+    <string name="contentDescription_menu">Menu</string>
+    <string name="contentDescription_way">Way</string>
+    <string name="contentDescription_favorite">Favorite</string>
+    <string name="contentDescription_init">Initialisation</string>
+    <string name="contentDescription_circle">circle</string>
+
+    <!-- other -->
+    <string name="newyork_title">New York</string>
+    <string name="paris_title">Paris</string>
+    <string name="about_me">xxx</string>
+    <string name="about_city">parisdata.opendatasoft.com\nnycopendata.socrata.com</string>
+
+    <!-- to translate -->
+
+    <string name="newyork_text">Список уличных кафе</string>
+    <string name="paris_text">Список из одного евро кафе</string>
+
+    <string-array name="items_title">
+        <item>Найти ближайший</item>
+        <item>Поиск кафе</item>
+        <item>Ваши фавориты</item>
+        <item>Сменить регион</item>
+        <item>o</item>
+    </string-array>
+
+    <string name="previous">предыдущий</string>
+    <string name="next">следующий</string>
+    <string name="editText_search">поиск</string>
+    <string name="text_empty_search">По Вашему запросу не соответствует ни одному кофе.</string>
+    <string name="text_empty_favorite">Нажмите на маркер, чтобы добавить фаворита.</string>
+    <string name="txt_init">синхронизация</string>
+    <string name="txt_init_update">Терпение, почти сделано</string>
+    <string name="network_failed">Проблема сети</string>
+    <string name="location_failed">Не удалось получить ваше местоположение</string>
+    <string name="about_intro">Это некоммерческая приложение, которое использует только Open Data.</string>
+    <string name="about_warranty">Это приложение не гарантирует полноту, точность и содержание любого набора данных общественного доступны вам.</string>
+    <string name="about_credit">Спасибо Максиму Морозову чтобы позволить мне использовать его логотип.</string>
+    <string name="about_contact">Для получения дальнейшей информации, любые ошибки сообщить или что: </string>
+    
+    <string name="email_intent">Отправить письмо</string>
+
+</resources>

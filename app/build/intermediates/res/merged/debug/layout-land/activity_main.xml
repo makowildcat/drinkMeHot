@@ -1,0 +1,101 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <!-- The main content view -->
+
+        <fragment
+            android:id="@+id/googleMap"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            class="com.google.android.gms.maps.MapFragment" />
+
+        <View
+            android:id="@+id/viewOverlay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:alpha="0"
+            android:background="#E0000000" />
+
+        <FrameLayout
+            android:id="@+id/content_frame"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+        </FrameLayout>
+
+        <!-- The navigation drawer -->
+
+        <ListView
+            android:id="@+id/left_drawer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:layout_marginTop="76dp"
+            android:background="@android:color/transparent"
+            android:choiceMode="singleChoice"
+            android:divider="@null"
+            android:dividerHeight="0dp"
+            android:listSelector="@android:color/transparent"
+            android:overScrollMode="never"
+            android:scrollbars="none" />
+    </android.support.v4.widget.DrawerLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/buttonPrevious"
+            style="@style/ButtonPrevious"
+            android:layout_marginRight="8dp"
+            android:alpha="0"
+            android:clickable="false"
+            android:drawableLeft="@drawable/ic_action_previous_item"
+            android:fontFamily="sans-serif-light"
+            android:onClick="clickPrevious"
+            android:text="@string/previous" />
+
+        <View
+            style="@style/ButtonPrevious"
+            android:alpha="0" />
+
+        <Button
+            android:id="@+id/buttonNext"
+            style="@style/ButtonNext"
+            android:layout_marginLeft="8dp"
+            android:alpha="0"
+            android:clickable="false"
+            android:drawableRight="@drawable/ic_action_next_item"
+            android:fontFamily="sans-serif-light"
+            android:onClick="clickNext"
+            android:text="@string/next" />
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/btnMenu"
+        style="@style/ButtonRound"
+        android:layout_margin="8dp"
+        android:alpha="0"
+        android:background="@drawable/round_button_stroke"
+        android:contentDescription="@string/contentDescription_menu"
+        android:onClick="clickMenu"
+        android:src="@drawable/ic_logo_coffee" />
+
+    <ImageView
+        android:id="@+id/imgMenu"
+        style="@style/ButtonRound"
+        android:layout_margin="8dp"
+        android:background="@drawable/round_button_stroke"
+        android:contentDescription="@string/contentDescription_menu"
+        android:src="@drawable/ic_logo_coffee" />
+
+</RelativeLayout>

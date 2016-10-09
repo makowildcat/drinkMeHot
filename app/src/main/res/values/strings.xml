@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Drink Me Hot</string>
+
+    <!-- content description -->
+    <string name="contentDescription_menu">Menu</string>
+    <string name="contentDescription_way">Way</string>
+    <string name="contentDescription_favorite">Favorite</string>
+    <string name="contentDescription_init">Initialisation</string>
+    <string name="contentDescription_circle">circle</string>
+
+    <!-- other -->
+    <string name="newyork_title">New York</string>
+    <string name="paris_title">Paris</string>
+    <string name="about_me">xxx</string>
+    <string name="about_city">parisdata.opendatasoft.com\nnycopendata.socrata.com</string>
+
+    <!-- to translate -->
+
+    <string name="newyork_text">A list of sidewalk cafes</string>
+    <string name="paris_text">A list of one euro cafes</string>
+
+    <string-array name="items_title">
+        <item>Find the nearest</item>
+        <item>Search a cafe</item>
+        <item>Your favorite</item>
+        <item>Change location</item>
+        <item>About</item>
+    </string-array>
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="editText_search">Search</string>
+    <string name="text_empty_search">Your search did not match any coffee.</string>
+    <string name="text_empty_favorite">Click on marker to add favorite.</string>
+    <string name="txt_init">Synchronization</string>
+    <string name="txt_init_update">Wait, almost done</string>
+    <string name="network_failed">Network problem</string>
+    <string name="about_intro">This is a non-commercial app which uses only OpenData.</string>
+    <string name="about_warranty">This app does not warrant the completeness, accuracy or content of any public data set made available to you.</string>
+    <string name="about_credit">Thanks to Maxim Morozov to let me use his logo.</string>
+    <string name="about_contact">For further informations, any bugs report or whatever :</string>
+    <string name="location_failed">Couldn\'t get your location</string>
+    <string name="email_intent">Send email</string>
+
+</resources>

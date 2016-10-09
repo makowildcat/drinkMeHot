@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/editTextSearch"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/edittext_search"
+        android:fontFamily="sans-serif-light"
+        android:hint="@string/editText_search"
+        android:imeOptions="actionDone|flagNoExtractUi"
+        android:inputType="textFilter"
+        android:padding="16dp"
+        android:singleLine="true"
+        android:textColor="#fff"
+        android:textCursorDrawable="@null"
+        android:textSize="20sp" />
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:choiceMode="singleChoice"
+        android:divider="#44482418"
+        android:dividerHeight="1dp"
+        android:overScrollMode="never" />
+
+    <TextView
+        android:id="@id/android:empty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="8dp"
+        android:fontFamily="sans-serif-light"
+        android:text="@string/text_empty_search"
+        android:textColor="#fff"
+        android:textSize="18sp" />
+
+</LinearLayout>
